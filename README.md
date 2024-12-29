@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Gianni Messina<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+- 🔭 I’m currently studying:
+	- Java
 
-<!--
-**Gianni300x/Gianni300x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## My Skills Include
 
-Here are some ideas to get you started:
+<h4> Languages </h4>
+<span> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
+  <h4> Frameworks </h4>
+<span>
+   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+</span>
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+
+
+
+</span>
