@@ -4,4 +4,4 @@
 
 ### 🛠 Stack
  
-![](https://skillicons.dev/icons?i=react,ts,python,postgres&theme=dark&perline=4)
+![](https://skillicons.dev/icons?i=react,ts,nexet,python,postgres&theme=dark&perline=4)
