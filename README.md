@@ -1,6 +1,6 @@
 # Hi I´m Gianni Messina 👋
 
-🎓 First-year Systems Engineering student (UTN Rosario), Learning to code.
+🎓 First-year Systems Engineering student (UTN Rosario).
 
 ### 🛠 Stack
  
