@@ -38,10 +38,6 @@ RowPort is a Python CLI that imports CSV files into an existing PostgreSQL table
 
 ## Technical toolkit
 
-These are the technologies and tools I use or am currently learning across software development, data processing, and Machine Learning.
-
-### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
