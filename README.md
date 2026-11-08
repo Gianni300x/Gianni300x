@@ -1,8 +1,8 @@
-# <h1 align="center">Gianni Luigi Messina</h1>
+# <h1 align="center">Gianni Messina</h1>
 
 <div align="center">
 
-**Python Developer · Machine Learning & Data Enthusiast**
+**Python Developer · Machine Learning & Data**
 
 Systems Engineering Student · UTN FRRO · Rosario, Argentina
 
