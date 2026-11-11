@@ -18,8 +18,6 @@ I'm a first-year **Systems Engineering student at UTN Rosario**, focused on Pyth
 
 I enjoy building practical solutions, automating repetitive tasks, and exploring how data and intelligent systems can solve real-world problems.
 
-I'm particularly interested in open-source software, scalable applications, and understanding the engineering behind Machine Learning.
-
 ## Current focus
 
 - Exploring **Machine Learning**, from data preparation to model training and evaluation.
